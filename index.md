@@ -1,7 +1,5 @@
-### Salut!
-
 Această pagină are ca scop aducerea în atenția publicului larg a unor noțiuni de securitate și privacy în mediul virtual.
-Nu o sa folosesc "intimitate" în loc de "privacy" pentru ca lumea o sa se gandeasca la alte chestii si nu e tot timpul cazul ;)
+Nu o sa folosesc "intimitate" sau "confidențialitate" în loc de "privacy" pentru ca lumea o sa se gandeasca la alte chestii si nu e tot timpul cazul ;)
 
 
 ## Securitate si privacy - de ce ar trebui sa te intereseze ambele
