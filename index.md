@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Salut!
 
-You can use the [editor on GitHub](https://github.com/iuliagudovan/pisicainvizibila.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Această pagină are ca scop aducerea în atenția publicului larg a unor noțiuni de securitate și privacy în mediul virtual.
+Nu o sa folosesc "intimitate" în loc de "privacy" pentru ca lumea o sa se gandeasca la alte chestii si nu e tot timpul cazul ;)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
