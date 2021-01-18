@@ -49,6 +49,8 @@ Câteva lucruri de luat în considerare la alegerea unei aplicații de chat:
 - ce setări de privacy oferă
 - ce alte vulnerabilități are (de exemplu, tastatura utilizată)
 
+Un rezumat bun e aici: [Secure messaging apps comparison](https://www.securemessagingapps.com/)
+
 ## Permisiuni necesare aplicațiilor de chat
 
 Cu cât o aplicație are nevoie de mai multe permisiuni, cu atât e mai rău, pentru foarte mult numărul de chestii care pot fi folosite în scop malițios.
@@ -78,3 +80,4 @@ Signal necesită număr de telefon, nu oferă posibilitatea de a-l ascunde de al
 
 Numărul de telefon, adresa de email, precum si o gamă largă de alte date sunt legate de utilizator. Un update recent la Apple App Store a introdus posibilitatea de a vedea ce date sunt legate de tine, per aplicație, și ce date sunt colecționate.
 
+![Date legate de tine, per app](https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/01/App-privacy-labels-messaging-apps.png)
