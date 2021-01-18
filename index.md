@@ -8,7 +8,7 @@ Nu o sa folosesc "intimitate" în loc de "privacy" pentru ca lumea o sa se gande
 
 Faptul ca ceva e sigur nu inseamna musai si ca ofera privacy, iar faptul ca ceva ofera privacy nu inseamna ca e si sigur.
 Noțiunea de privacy se poate referi la privacy versus marii colectori de date (Facebook, Google, Yandex, tot felul de scraper-e), versus autorități (cum se spune, "agențiile cu acronime din 3 litere") sau versus alte persoane fizice.
-Una e să fentezi algoritmii publicitari ai Facebook, alta e să te ascunzi de un regim opresiv ca dizident/opoziție, și complet alta e să nu afle rudele că joci Dungeons & Dragons. Sau sa nu afle hoții că ai plecat în concediu și stai mult :) Alt caz demn de menționat ar fi victimele (de orice gen) violenței domestice. Persoanele cu parteneri abuzivi (zic la masculin ca sa fie mai general, nu e problema de gen aici) au nevoi mai complexe de privacy, mai ales daca au de gand sa iasa din relatie sau au fugit deja de acasa. E cam ca la protecția martorilor.
+Una e să fentezi algoritmii publicitari și de recomandare de conținut ai Facebook, alta e să te ascunzi de un regim opresiv ca dizident/opoziție, și complet alta e să nu afle rudele că joci Dungeons & Dragons. Sau sa nu afle hoții că ai plecat în concediu și stai mult :) Alt caz demn de menționat ar fi victimele (de orice gen) violenței domestice. Persoanele cu parteneri abuzivi (zic la masculin ca sa fie mai general, nu e problema de gen aici) au nevoi mai complexe de privacy, mai ales daca au de gand sa iasa din relatie sau au fugit deja de acasa. E cam ca la protecția martorilor.
 
 Când ne gândim la privacy, trebuie să avem în vedere următoarele:
 1. Trackers:
@@ -39,7 +39,7 @@ Problema la ora actuală e cam așa: date strâng toți, log-uri țin toți, iar
 
 
 ## Cum alegem o aplicație de chat
-Agitația recentă cu noua politică Whatsapp a generat o grămadă de discuții și a readus aspectele de securitate/privacy în atenția publicului larg. În esență, au zis că platforma Facebook va avea acces și la (meta)datele din Whatsapp. Și că teoretic nu se aplică în UE. Mai multe despre asta se poate citi direct pe site-ul lor, la partea cu politici de securitate și privacy. Acest lucru are impact mai degrabă asupra algoritmilor publicitari, nu înseamnă că aplicația e musai mai puțin sigură în fața unor atacatori sau a unor interceptări legale. Apropos de interceptări legale, în cazul lor e vorba mai mult despre (pseudo)anonimat, că decriptoare au și autoritățile.
+Agitația recentă cu noua politică Whatsapp a generat o grămadă de discuții și a readus aspectele de securitate/privacy în atenția publicului larg. În esență, au zis că platforma Facebook va avea acces și la (meta)datele din Whatsapp. Și că teoretic nu se aplică în UE. Mai multe despre asta se poate citi direct pe site-ul lor, la partea cu politici de securitate și privacy. Acest lucru are impact mai degrabă asupra algoritmilor publicitari, nu înseamnă că aplicația e musai mai puțin sigură în fața unor atacatori sau a unor interceptări legale. Apropos de interceptări legale, în cazul lor e vorba mai mult despre (pseudo)anonimat, că decriptoare au și autoritățile. Recomand citirea documentației tehnice generale și a politicilor de securitate și privacy pentru aplicațiile folosite/luate în calcul.
 
 Câteva lucruri de luat în considerare la alegerea unei aplicații de chat:
 - ce permisiuni necesită din partea sistemului de operare
@@ -53,4 +53,21 @@ Câteva lucruri de luat în considerare la alegerea unei aplicații de chat:
 
 Cu cât o aplicație are nevoie de mai multe permisiuni, cu atât e mai rău, pentru foarte mult numărul de chestii care pot fi folosite în scop malițios.
 În articolul de mai jos sunt detaliate destul de clar permisiunile necesare celor mai populare aplicații, cu excepția Facebook Messenger, ca nu mai era cazul sa o discute si pe aceea, fiind una din cele care necesită cele mai multe permisiuni.
+
 [Android trackers and permissions: Did I say you could do that?](https://getsession.org/android-trackers-and-permissions/)
+![Android trackers and permissions table](https://getsession.org/wp-content/uploads/2020/06/small_clean_permissions_test_2-e1599620821852.png)
+
+## Date necesare și (pseudo)anonimitate
+
+Câte/ce date sunt necesare pentru a utiliza o aplicație? 
+Cele mai multe necesită cel puțin număr de telefon. Multe cer și număr de telefon, și adresă de email, cu limitări la provider-ul de email.
+Ca idee, nu puteti adera la Facebook folosind chiar orice adresă de email, iar crearea unui cont de Gmail sau Yahoo necesita număr de telefon. Bineînțeles că în România înca se mai pot cumpăra SIM-uri prepay fără act de identitate folosind cash, dar în multe țări acest lucru e imposibil.
+De exemplu, [Session](https://getsession.org/) nu necesită în nici un fel număr de telefon sau adresă de email. Altele necesită, dar nu insistă sa fie de la un provider "clasic" (mainstream), deci se pot utiliza servicii de mail "puțin mai anonime", de tip Protonmail sau Tutanota. 
+Pentru a folosi Protonmail este necesar un număr de telefon, dar acesta poate fi unul temporar obținut prin aplicații de tip CoverMe, sau un burner (cartelă SIM prepay, cumpărată preferabil cu bani cash, utilizată cu un singur scop într-un telefon care nu are teoretic nici o legătură cu persoana respectivă). 
+Tutanota nu cere nici număr de telefon, nici altă adresă de email.
+[Status](https://status.im/account-creation/) nu necesită nici număr de telefon, nici adresă de email.
+Telegram necesită număr de telefon, dar acesta poate fi complet ascuns față de ceilalți participanți la conversație. Nu cere adresă de email și nici setarea unui username, iar numele poate fi schimbat inclusiv într-un emoji.
+Signal necesită număr de telefon, nu oferă posibilitatea de a-l ascunde de alții și, mai rău, te anunță când cineva din lista de contacte a aderat. Ce e rău în asta? De exemplu, următoarea situație: persoană cu partener abuziv aderă la Signal pentru a comunica cu familia si avocatul în vederea ieșirii din relație. Partenerul vede notificarea, se enervează (că percepe Signal ca fiind o aplicație folosită de cei care vor să se ascundă pentru a face rele), poate acționa violent față de celălalt și/sau îi poate confisca telefonul, tăind-ui astfel contactul cu cercul de susținere.
+
+Numărul de telefon, adresa de email, precum si o gamă largă de alte date sunt legate de utilizator. Un update recent la Apple App Store a introdus posibilitatea de a vedea ce date sunt legate de tine, per aplicație, și ce date sunt colecționate.
+
