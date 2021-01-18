@@ -12,11 +12,11 @@ Una e să fentezi algoritmii publicitari ai Facebook, alta e să te ascunzi de u
 
 Când ne gândim la privacy, trebuie să avem în vedere următoarele:
 1. Trackers:
-- Google Firebase Analytics
+- Google Firebase Analytics [Google Analytics Intro](https://firebase.google.com/docs/analytics)
 - Microsoft Appcenter Crashes
-- Countly
-- Bugsnag
-- Piwik
+- Countly [Countly User Guides](https://support.count.ly/hc/en-us/sections/360007405211-User-Guides)
+- Bugsnag [Bugsnag Documentation](https://docs.bugsnag.com/)
+- Piwik [Piwik Customer Data Platform](https://piwik.pro/customer-data-platform/)
 2. Metadate de toate felurile (istoric de navigare web, timp petrecut pe un site, reclame accesate, obiecte pe care a stat cu mouse-u etc., date EXIF în cazul imaginilor). Toate acestea pot da informații cu privire la interesele și preferințele utilizatorului fără a accesa efectiv date de identificare ale acestuia
 3. Date de localizare (în toate formele)
 4. Cookies
