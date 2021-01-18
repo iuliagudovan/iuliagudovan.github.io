@@ -61,12 +61,19 @@ Cu cât o aplicație are nevoie de mai multe permisiuni, cu atât e mai rău, pe
 
 Câte/ce date sunt necesare pentru a utiliza o aplicație? 
 Cele mai multe necesită cel puțin număr de telefon. Multe cer și număr de telefon, și adresă de email, cu limitări la provider-ul de email.
+
 Ca idee, nu puteti adera la Facebook folosind chiar orice adresă de email, iar crearea unui cont de Gmail sau Yahoo necesita număr de telefon. Bineînțeles că în România înca se mai pot cumpăra SIM-uri prepay fără act de identitate folosind cash, dar în multe țări acest lucru e imposibil.
+
 De exemplu, [Session](https://getsession.org/) nu necesită în nici un fel număr de telefon sau adresă de email. Altele necesită, dar nu insistă sa fie de la un provider "clasic" (mainstream), deci se pot utiliza servicii de mail "puțin mai anonime", de tip Protonmail sau Tutanota. 
+
 Pentru a folosi Protonmail este necesar un număr de telefon, dar acesta poate fi unul temporar obținut prin aplicații de tip CoverMe, sau un burner (cartelă SIM prepay, cumpărată preferabil cu bani cash, utilizată cu un singur scop într-un telefon care nu are teoretic nici o legătură cu persoana respectivă). 
+
 Tutanota nu cere nici număr de telefon, nici altă adresă de email.
+
 [Status](https://status.im/account-creation/) nu necesită nici număr de telefon, nici adresă de email.
+
 Telegram necesită număr de telefon, dar acesta poate fi complet ascuns față de ceilalți participanți la conversație. Nu cere adresă de email și nici setarea unui username, iar numele poate fi schimbat inclusiv într-un emoji.
+
 Signal necesită număr de telefon, nu oferă posibilitatea de a-l ascunde de alții și, mai rău, te anunță când cineva din lista de contacte a aderat. Ce e rău în asta? De exemplu, următoarea situație: persoană cu partener abuziv aderă la Signal pentru a comunica cu familia si avocatul în vederea ieșirii din relație. Partenerul vede notificarea, se enervează (că percepe Signal ca fiind o aplicație folosită de cei care vor să se ascundă pentru a face rele), poate acționa violent față de celălalt și/sau îi poate confisca telefonul, tăind-ui astfel contactul cu cercul de susținere.
 
 Numărul de telefon, adresa de email, precum si o gamă largă de alte date sunt legate de utilizator. Un update recent la Apple App Store a introdus posibilitatea de a vedea ce date sunt legate de tine, per aplicație, și ce date sunt colecționate.
