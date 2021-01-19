@@ -120,7 +120,8 @@ Autentificarea multi-factor (2FA) este utilă oricui. Uneori încetinește trebu
 - PIN 
 - smartphone (dacă adversarul are acces fizic la el se complică situația și trebuie crescută securitatea smartphone-ului prin deblocare cu amprentă și/sau model de deblocare complex, sau, mai simplu, folosit altă metodă de 2FA)
 - cheie USB securizată, gen [YubiKey](https://www.yubico.com/)
-Este recomandat să fie activată peste tot pe unde e posibil.
+
+Este recomandat ca 2FA să fie activată peste tot pe unde e posibil. Cea mai ușoară variantă de a face asta este prin SMS, dar nu e cea mai sigură. A doua cea mai ușoară ar fi utilizarea smartphone-ului, fie printr-o aplicație de tip Google Authenticator (sau Blizzard Authenticator pentru jocurile Blizzard) sau confirmare în aplicația corespunzătoare de pe telefon.
 
 Opțiunea de dezactivare/blocare a învățării personalizate pentru tastatură (Incognito keyboard) duce la faptul că tastatura nu mai memorează cuvinte/fraze des folosite. Tastatura le învață pentru a oferi predicții în scopul de a scrie mai repede. Teoretic, și tastatura în sine poate fi trecută în modul incognito, iar datele pot fi șterse, însă acest lucru este destul de dificil și niciodată 100% eficient. De ce contează? Degeaba este aplicația de chat în sine sigură, dacă tastatura reprezintă o vulnerabilitate. Datele colectate de către tastatură pot fi recuperate mai ușor decât conversațiile. Chiar dacă nu reprezintă un set complet de date față de conversațiile în sine, tot se pot extrage o grămadă de informații utile.
 
