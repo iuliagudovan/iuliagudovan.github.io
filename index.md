@@ -91,6 +91,8 @@ Ca idee, nu puteti adera la Facebook folosind chiar orice adresă de email, iar 
 
 De exemplu, [Session](https://getsession.org/) nu necesită în nici un fel număr de telefon sau adresă de email. Altele necesită, dar nu insistă sa fie de la un provider "clasic" (mainstream), deci se pot utiliza servicii de mail "puțin mai anonime", de tip Protonmail sau Tutanota. 
 
+![Session app](/images/sessionapp.png)
+
 Pentru a folosi [Protonmail](https://protonmail.com/) este necesar un număr de telefon, dar acesta poate fi unul temporar obținut prin aplicații de tip [CoverMe](http://www.coverme.ws/en/index.html), sau un burner (cartelă SIM prepay, cumpărată preferabil cu bani cash, utilizată cu un singur scop într-un telefon care nu are teoretic nici o legătură cu persoana respectivă). [Tutanota](https://tutanota.com/) nu cere nici număr de telefon, nici altă adresă de email. Ambele sunt criptate.
 
 [Status](https://status.im/account-creation/) nu necesită nici număr de telefon, nici adresă de email.
