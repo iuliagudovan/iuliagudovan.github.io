@@ -63,13 +63,13 @@ Altă mare problemă o reprezintă aplicațiile de chat. Și aici, problemele su
 Agitația recentă cu noua politică Whatsapp a generat o grămadă de discuții și a readus aspectele de securitate/privacy în atenția publicului larg. În esență, au zis că platforma Facebook va avea acces și la (meta)datele din Whatsapp. Și că teoretic nu se aplică în UE. Mai multe despre asta se poate citi direct pe site-ul lor, la partea cu politici de securitate și privacy. Acest lucru are impact mai degrabă asupra algoritmilor publicitari, nu înseamnă că aplicația e musai mai puțin sigură în fața unor atacatori sau a unor interceptări legale. Apropos de interceptări legale, în cazul lor e vorba mai mult despre (pseudo)anonimat, că decriptoare au și autoritățile. Recomand citirea documentației tehnice generale și a politicilor de securitate și privacy pentru aplicațiile folosite/luate în calcul.
 
 Câteva lucruri de luat în considerare la alegerea unei aplicații de chat:
+- cu cine dorim să comunicăm, ce fel de date/informații vrem să transmitem
 - ce permisiuni necesită din partea sistemului de operare
 - ce date necesită pentru utilizare și ce date leagă de tine
 - cât și cum stochează aceste date, chiar și după ștergerea contului
 - cripare: nu? da? end-to-end? ce algoritm?
 - ce setări de privacy oferă
 - ce alte vulnerabilități are (de exemplu, tastatura utilizată)
-- cu cine dorim să comunicăm, ce fel de date/informații vrem să transmitem
 
 Un rezumat bun e aici: [Secure messaging apps comparison](https://www.securemessagingapps.com/)
 
@@ -105,3 +105,22 @@ Numărul de telefon, adresa de email, precum si o gamă largă de alte date sunt
 
 ![Date legate de tine, per app](https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/01/App-privacy-labels-messaging-apps.png)
 sursă foto: Forbes
+
+### Setări de securitate și privacy
+
+Cele mai importante setări sunt:
+- autentificarea multi-factor (da, chiar si prin SMS, ca tot e mai bine decât o simplă parolă)
+- opțiunea de a dezactiva învățarea personalizată pentru tastatură
+- blocarea funcției de screenshot (captură de ecran)
+- ascunderea anumitor date față de persoane care nu sunt contacte 
+
+Autentificarea multi-factor (2FA) este utilă oricui. Uneori încetinește treburile (în funcție și de alte setări - la fiecare intrare în cont dintr-un browser nou, se cere al 2-lea factor de autentificare; browser nou se consideră și unul care e setat să nu țină minte nimic, chiar dacă e vorba de același calculator și aceeași rețea), dar poate salva situația dacă parola e compromisă. 
+2FA poate fi făcută în mai multe feluri:
+- PIN 
+- smartphone (dacă adversarul are acces fizic la el se complică situația și trebuie crescută securitatea smartphone-ului prin deblocare cu amprentă și/sau model de deblocare complex, sau, mai simplu, folosit altă metodă de 2FA)
+- cheie USB securizată, gen [YubiKey](https://www.yubico.com/)
+Este recomandat să fie activată peste tot pe unde e posibil.
+
+Opțiunea de dezactivare/blocare a învățării personalizate pentru tastatură (Incognito keyboard) duce la faptul că tastatura nu mai memorează cuvinte/fraze des folosite. Tastatura le învață pentru a oferi predicții în scopul de a scrie mai repede. Teoretic, și tastatura în sine poate fi trecută în modul incognito, iar datele pot fi șterse, însă acest lucru este destul de dificil și niciodată 100% eficient. De ce contează? Degeaba este aplicația de chat în sine sigură, dacă tastatura reprezintă o vulnerabilitate. Datele colectate de către tastatură pot fi recuperate mai ușor decât conversațiile. Chiar dacă nu reprezintă un set complet de date față de conversațiile în sine, tot se pot extrage o grămadă de informații utile.
+
+Blocarea funcției de screenshot
