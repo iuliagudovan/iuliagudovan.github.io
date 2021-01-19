@@ -91,8 +91,6 @@ Ca idee, nu puteti adera la Facebook folosind chiar orice adresă de email, iar 
 
 De exemplu, [Session](https://getsession.org/) nu necesită în nici un fel număr de telefon sau adresă de email. Altele necesită, dar nu insistă sa fie de la un provider "clasic" (mainstream), deci se pot utiliza servicii de mail "puțin mai anonime", de tip Protonmail sau Tutanota. 
 
-![Session app](/images/sessionapp.png)
-
 Pentru a folosi [Protonmail](https://protonmail.com/) este necesar un număr de telefon, dar acesta poate fi unul temporar obținut prin aplicații de tip [CoverMe](http://www.coverme.ws/en/index.html), sau un burner (cartelă SIM prepay, cumpărată preferabil cu bani cash, utilizată cu un singur scop într-un telefon care nu are teoretic nici o legătură cu persoana respectivă). [Tutanota](https://tutanota.com/) nu cere nici număr de telefon, nici altă adresă de email. Ambele sunt criptate.
 
 [Status](https://status.im/account-creation/) nu necesită nici număr de telefon, nici adresă de email.
@@ -128,3 +126,7 @@ Este recomandat ca 2FA să fie activată peste tot pe unde e posibil. Cea mai u�
 Opțiunea de dezactivare/blocare a învățării personalizate pentru tastatură (Incognito keyboard) duce la faptul că tastatura nu mai memorează cuvinte/fraze des folosite. Tastatura le învață pentru a oferi predicții în scopul de a scrie mai repede. Teoretic, și tastatura în sine poate fi trecută în modul incognito, iar datele pot fi șterse, însă acest lucru este destul de dificil și niciodată 100% eficient. De ce contează? Degeaba este aplicația de chat în sine sigură, dacă tastatura reprezintă o vulnerabilitate. Datele colectate de către tastatură pot fi recuperate mai ușor decât conversațiile. Chiar dacă nu reprezintă un set complet de date față de conversațiile în sine, tot se pot extrage o grămadă de informații utile.
 
 Blocarea funcției de screenshot împiedică participanții la conversație să memoreze conversația prin screenshot. Evident că cineva poate poza/filma ecranul cu un alt smartphone sau camera foto, dar e ceva recomandat mai ales în cazul discuțiilor mai sensibile cu persoane care nu sunt musai de încredere și care pot folosi acea conversație împotriva ta. Unele aplicații oferă măcar o avertizare dacă cineva face screenshot. La momentul scrierii acestei pagini nici Facebook Messenger, nici Whatsapp nu oferă posibilitatea de a bloca screenshot-urile sau posibilitatea de a primi o avertizare dacă se face screenshot.
+
+Session:
+
+![Session app](/images/sessionapp.png)
