@@ -1,6 +1,6 @@
 Această pagină are ca scop aducerea în atenția publicului larg a unor noțiuni de securitate și privacy în mediul virtual.
-Nu o sa folosesc "intimitate" sau "confidențialitate" în loc de "privacy" pentru ca lumea o sa se gandeasca la alte chestii si nu e tot timpul cazul :wink:
-Pagina asta e destinată publicului larg, nu experților din zona IT/security, așa că nu aruncați cu ouă și roșii stricate pentru că unele lucruri sunt simplificate. :grin:
+Nu o sa folosesc "intimitate" sau "confidențialitate" în loc de "privacy" pentru ca lumea o sa se gandeasca la alte chestii si nu e tot timpul cazul.
+Pagina asta e destinată publicului larg, nu experților din zona IT/security, așa că nu aruncați cu ouă și roșii stricate pentru că unele lucruri sunt simplificate. 
 
 
 ## Securitate si privacy - de ce ar trebui sa te intereseze ambele
@@ -91,9 +91,11 @@ Pentru a folosi Protonmail este necesar un număr de telefon, dar acesta poate f
 
 [Status](https://status.im/account-creation/) nu necesită nici număr de telefon, nici adresă de email.
 
-Telegram necesită număr de telefon, dar acesta poate fi complet ascuns față de ceilalți participanți la conversație. Nu cere adresă de email și nici setarea unui username, iar numele poate fi schimbat inclusiv într-un emoji.
+[Telegram](https://telegram.org/) necesită număr de telefon, dar acesta poate fi complet ascuns față de ceilalți participanți la conversație. Nu cere adresă de email și nici setarea unui username, iar numele poate fi schimbat inclusiv într-un emoji.
 
-Signal necesită număr de telefon, nu oferă posibilitatea de a-l ascunde de alții și, mai rău, te anunță când cineva din lista de contacte a aderat. Ce e rău în asta? De exemplu, următoarea situație: persoană cu partener abuziv aderă la Signal pentru a comunica cu familia si avocatul în vederea ieșirii din relație. Partenerul vede notificarea, se enervează (că percepe Signal ca fiind o aplicație folosită de cei care vor să se ascundă pentru a face rele), poate acționa violent față de celălalt și/sau îi poate confisca telefonul, tăind-ui astfel contactul cu cercul de susținere.
+[Signal](https://signal.org/en/) necesită număr de telefon, nu oferă posibilitatea de a-l ascunde de alții și, mai rău, te anunță când cineva din lista de contacte a aderat. Ce e rău în asta? De exemplu, următoarea situație: persoană cu partener abuziv aderă la Signal pentru a comunica cu familia si avocatul în vederea ieșirii din relație. Partenerul vede notificarea, se enervează (că percepe Signal ca fiind o aplicație folosită de cei care vor să se ascundă pentru a face rele), poate acționa violent față de celălalt și/sau îi poate confisca telefonul, tăind-ui astfel contactul cu cercul de susținere. Alt punct slab al Signal este faptul că pentru tastaturile (virtuale, e vorba de smartphones) folosite pentru caractere non-europene (și aici discuția a fost cu accentul pe chineză și hindi) se poate ignora marcajul de incognito și se pot astfel înregistra mesajele (practic, nu ține cont de "disable personalized learning" și deci stochează cuvintele/frazele folosite des). Este posibil să se întâmple și cu alte tastaturi. Practic, o parte din securitatea acestei aplicații depinde de securitatea tastaturii folosite. 
+
+Alte variante de aplicații de chat sunt [Threema](https://threema.ch/en), [Keybase](https://keybase.io/), [Wire](https://wire.com/en/).
 
 Numărul de telefon, adresa de email, precum si o gamă largă de alte date sunt legate de utilizator. Un update recent la Apple App Store a introdus posibilitatea de a vedea ce date sunt legate de tine, per aplicație, și ce date sunt colecționate.
 
