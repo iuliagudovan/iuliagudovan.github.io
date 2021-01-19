@@ -2,6 +2,10 @@ Această pagină are ca scop aducerea în atenția publicului larg a unor noțiu
 Nu o sa folosesc "intimitate" sau "confidențialitate" în loc de "privacy" pentru ca lumea o sa se gandeasca la alte chestii si nu e tot timpul cazul.
 Pagina asta e destinată publicului larg, nu experților din zona IT/security, așa că nu aruncați cu ouă și roșii stricate pentru că unele lucruri sunt simplificate. 
 
+## Cuprins
+1. Securitate si privacy - de ce ar trebui sa te intereseze ambele
+2. Threat model - ce-i ăla și de ce ar trebui să ne gândim la el
+3. Cum alegem o aplicație de chat
 
 ## Securitate si privacy - de ce ar trebui sa te intereseze ambele
 
@@ -64,6 +68,7 @@ Câteva lucruri de luat în considerare la alegerea unei aplicații de chat:
 - cripare: nu? da? end-to-end? ce algoritm?
 - ce setări de privacy oferă
 - ce alte vulnerabilități are (de exemplu, tastatura utilizată)
+- cu cine dorim să comunicăm, ce fel de date/informații vrem să transmitem
 
 Un rezumat bun e aici: [Secure messaging apps comparison](https://www.securemessagingapps.com/)
 
