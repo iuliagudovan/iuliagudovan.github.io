@@ -129,4 +129,4 @@ Blocarea funcției de screenshot împiedică participanții la conversație să 
 
 Session:
 
-![Session app](/images/sessionapp.png)
+![Session app](/images/sessionapp_privacy_anon.png)
