@@ -137,7 +137,9 @@ Whatsapp nu oferă anonimitate. Este nevoie de un număr de telefon pentru utili
 
 Signal:
 
-Nu oferă anonimitate. Este nevoie de număr de telefon pentru utilizare. Se poate obține oarecum pseudoanonimitate folosind un SIM burner, nume irelevant și poză de profil lipsă. O problemă actuală a Signal constă în faptul că acesta te notifică când cineva din lista ta de contacte aderă, acest lucru putând fi chiar periculos în anumite situații. Problema poate fi evitată folosind pentru Signal un număr de telefon necunoscut persoanei de care te ferești, iar cum multe telefoane sunt dual-SIM, acest lucru nu ar trebui să fie prea complicat.
+Nu oferă anonimitate. Este nevoie de număr de telefon pentru utilizare. Totuși, nu cere nici adresă de email, nici nume "real", numele setat putând fi chiar și un emoji. Se poate obține oarecum pseudoanonimitate folosind un SIM burner, nume irelevant și poză de profil lipsă. O problemă actuală a Signal constă în faptul că acesta te notifică când cineva din lista ta de contacte aderă, acest lucru putând fi chiar periculos în anumite situații. Problema poate fi evitată folosind pentru Signal un număr de telefon necunoscut persoanei de care te ferești, iar cum multe telefoane sunt dual-SIM, acest lucru nu ar trebui să fie prea complicat.
+
+![Signal join notification](/images/signaljoin.jpg)
 
 Session:
 
