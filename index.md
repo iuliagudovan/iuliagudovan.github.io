@@ -6,7 +6,7 @@ Pagina asta e destinată publicului larg, nu experților din zona IT/security, a
 1. [Securitate si privacy - de ce ar trebui sa te intereseze ambele](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#securitate-si-privacy---de-ce-ar-trebui-sa-te-intereseze-ambele)
 2. [Threat model - ce-i ăla și de ce ar trebui să ne gândim la el](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#threat-model---ce-i-%C4%83la-%C8%99i-de-ce-ar-trebui-s%C4%83-ne-g%C3%A2ndim-la-el)
 3. [Cum alegem o aplicație de chat](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#cum-alegem-o-aplica%C8%9Bie-de-chat)
-4. [Cum îmi dau seama dacă parola/datele mele circulă libere pe net?]
+4. [Cum îmi dau seama dacă parola/datele mele circulă libere pe net?](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#cum-%C3%AEmi-dau-seama-dac%C4%83-paroladatele-mele-circul%C4%83-libere-pe-net)
 5. ["You don't know the power of The Dark Side!": Darknet - cum se intră, cum te protejezi, ce găsim acolo?](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#you-dont-know-the-power-of-the-dark-side-darknet---cum-se-intr%C4%83-cum-te-protejezi-ce-g%C4%83sim-acolo)
 
 ## Securitate si privacy - de ce ar trebui sa te intereseze ambele
@@ -154,6 +154,7 @@ Această aplicație nu permite screenshot în nici un fel, nici în conversații
 ## Cum îmi dau seama dacă parola/datele mele circulă libere pe net?
 
 [Have I been pwned](https://haveibeenpwned.com/)
+
 [Intelligence X](https://intelx.io/)
 
 ## "You don't know the power of The Dark Side!": Darknet - cum se intră, cum te protejezi, ce găsim acolo?
