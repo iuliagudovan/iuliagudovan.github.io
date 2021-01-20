@@ -7,7 +7,7 @@ Pagina asta e destinată publicului larg, nu experților din zona IT/security, a
 2. [Threat model - ce-i ăla și de ce ar trebui să ne gândim la el](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#threat-model---ce-i-%C4%83la-%C8%99i-de-ce-ar-trebui-s%C4%83-ne-g%C3%A2ndim-la-el)
 3. [Cum alegem o aplicație de chat](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#cum-alegem-o-aplica%C8%9Bie-de-chat)
 4. [Cum îmi dau seama dacă parola/datele mele circulă libere pe net?](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#cum-%C3%AEmi-dau-seama-dac%C4%83-paroladatele-mele-circul%C4%83-libere-pe-net)
-5. ["You don't know the power of The Dark Side!": Darknet - cum se intră, cum te protejezi, ce găsim acolo?](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#you-dont-know-the-power-of-the-dark-side-darknet---cum-se-intr%C4%83-cum-te-protejezi-ce-g%C4%83sim-acolo)
+5. ["You don't know the power of The Dark Side!": Darknet, deep web - cum se intră, cum te protejezi, ce găsim acolo?](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#you-dont-know-the-power-of-the-dark-side-darknet---cum-se-intr%C4%83-cum-te-protejezi-ce-g%C4%83sim-acolo)
 
 ## Securitate si privacy - de ce ar trebui sa te intereseze ambele
 
@@ -161,14 +161,16 @@ Această aplicație nu permite screenshot în nici un fel, nici în conversații
 
 [Intelligence X](https://intelx.io/)
 
-## "You don't know the power of The Dark Side!": Darknet - cum se intră, cum te protejezi, ce găsim acolo?
+## "You don't know the power of The Dark Side!": Darknet, deep web - cum se intră, cum te protejezi, ce găsim acolo?
 
 Darknet e acea parte a internetului unde se găsesc tot felul de chestii... mai puțin legale. A accesa și citi nu e propriu-zis ilegal (cu câteva excepții), dar a lua parte activ la anumite comunități și a cumpăra e altceva.
 2 puncte de plecare în explorarea darknet sunt:
 [The Hidden Wiki](https://thehiddenwiki.org/)
 [dark.fail](https://dark.fail/)
 
-Adresele cu .onion sunt "hidden services" și e nevoie de [Tor](https://www.torproject.org/) pentru a le accesa.
+Darknet-ul propriu-zis e format din site-uri .onion
+
+Adresele cu .onion sunt "hidden services" și e nevoie de [Tor](https://www.torproject.org/) pentru a le accesa. Alte site-uri dubioase fac parte din deepweb și nu sunt indexate de motoarele de căutare.
 
 Ca sfaturi de navigare:
 - chiar și site-urile non-.onion vor fi accesate numai din Tor
@@ -182,4 +184,5 @@ Ca sfaturi de navigare:
 - în cazul interacțiunii ulterioare cu persoane întâlnite acolo, se vor folosi conturi (pseudo)anonime și aplicații de chat cât mai sigure
 - nu se va descărca (și rula/dezarhiva ulterior) nimic fără a folosi un mediu bine izolat (sandbox sau mașină virtuală - virtual machine, VM)
 
-Două forumuri posibil utile ar fi leakzone.net (data leaks & resources) și raidforums.com (database sharing and marketplace forum). Aici sunt lăsate intenționat fără link, pentru a nu face click pe ele din greșeală :)
+Un site util celor interesați de malware (pentru reverse engineering sau alte studii) e [vx-underground](https://vx-underground.org/)
+Două forumuri posibil utile (deepweb) ar fi leakzone.net (data leaks & resources) și raidforums.com (database sharing and marketplace forum). Aici sunt lăsate intenționat fără link, pentru a nu face click pe ele din greșeală :)
