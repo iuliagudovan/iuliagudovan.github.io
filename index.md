@@ -151,6 +151,10 @@ Această aplicație nu permite screenshot în nici un fel, nici în conversații
 
 ![Session app](/images/sessionapp_privacy_anon.png)
 
+### “Do. Or do not. There is no try.” 
+
+[PinePhone](https://www.pine64.org/pinephone/)/[Bunnie Precursor](https://www.bunniestudios.com/blog/?p=5921) + burner SIM + Tor (sau Brave/DuckDuckGo) + Protonmail/Tutanota (și email temporar în anumite situații) + Telegram/Session/Element + poză de profil lipsă sau irelevantă + nume de utilizator irelevant și care să nu fie repetat pe mai multe conturi + 2FA peste tot + FDE (full disk encryption)
+
 ## Cum îmi dau seama dacă parola/datele mele circulă libere pe net?
 
 [Have I been pwned](https://haveibeenpwned.com/)
