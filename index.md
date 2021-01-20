@@ -73,6 +73,8 @@ Câteva lucruri de luat în considerare la alegerea unei aplicații de chat:
 
 Un rezumat bun e aici: [Secure messaging apps comparison](https://www.securemessagingapps.com/)
 
+"Dar dacă aplicația X e folosită de hackeri/teroristi/etc.?" - Cât timp nu ai treabă cu respectivii, nu ai de ce să-ți faci griji. Cel mult arată că e mai sigură/privată decât altele. Cât timp tu nu ești implicat în activități ilegale, nu te afectează cu nimic dacă un necunoscut care folosește aceeași aplicație comite diverse fapte. Exemplu concret: Facebook cu grupurile de escrocherii/îndoctrinare pentru extremiști diverși, Whatsapp cu grupurile de porno non-consensual sau chiar cu minori, olx cu obiecte furate. 
+
 ### Permisiuni necesare aplicațiilor de chat
 
 Cu cât o aplicație are nevoie de mai multe permisiuni, cu atât e mai rău, pentru foarte mult numărul de chestii care pot fi folosite în scop malițios.
@@ -127,9 +129,14 @@ Opțiunea de dezactivare/blocare a învățării personalizate pentru tastatură
 
 Blocarea funcției de screenshot împiedică participanții la conversație să memoreze conversația prin screenshot. Evident că cineva poate poza/filma ecranul cu un alt smartphone sau camera foto, dar e ceva recomandat mai ales în cazul discuțiilor mai sensibile cu persoane care nu sunt musai de încredere și care pot folosi acea conversație împotriva ta. Unele aplicații oferă măcar o avertizare dacă cineva face screenshot. La momentul scrierii acestei pagini nici Facebook Messenger, nici Whatsapp nu oferă posibilitatea de a bloca screenshot-urile sau posibilitatea de a primi o avertizare dacă se face screenshot.
 
+Whatsapp:
+
+Whatsapp nu oferă anonimitate. Se poate obține o pseudoanonimitate folosind un număr de telefon burner, nume irelevant și poză de profil lipsă, dar alfarea IP-ului și în final a identității utilizatorului nu este o problemă. Oferă criptare, dar colecționează foarte multe date despre utilizator (pe care le trimite la compania mamă precum și la terți) și nu oferă nici un fel de opțiuni de privacy reale/utile. Nu oferă blocarea screenshot-urilor, nici dezactivarea învățării automate pentru tastatură. Setările de privacy sunt foarte de suprafață și utile doar pentru a te feri de utilizatorul tipic. Nu consider că este recomandat pentru transmiterea de date medicale, contracte, acte sau orice alt fel de date sensibile.
+
 Session:
 
 Session oferă anonimitate, privacy și criptare. Anonimitatea e oferită prin faptul că nu se cere nici număr de telefon, nici adresă de email pentru a-l folosi. Datorită modelului său descentralizat, este foarte dificil să se facă o legătură între un ID de Session și o adresă IP, care să ducă la un device specific și la identitatea utilizatorului. Se poate alfa din Google Play Store sau Apple App Store cine a descărcat aplicația, dar ID-ul în sine se poate schimba după fiecare conversație.
 
 Această aplicație nu permite screenshot în nici un fel, nici în conversații, nici în meniul principal sau în setări. Oferă incognito keyboard (blocarea învățării personalizate pentru tastatură) și blocarea accesului la aplicație cu modelul de deblocare sau amprenta folosit/ă de Android)
+
 ![Session app](/images/sessionapp_privacy_anon.png)
