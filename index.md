@@ -133,6 +133,10 @@ Whatsapp:
 
 Whatsapp nu oferă anonimitate. Se poate obține o pseudoanonimitate folosind un număr de telefon burner, nume irelevant și poză de profil lipsă, dar alfarea IP-ului și în final a identității utilizatorului nu este o problemă. Oferă criptare, dar colecționează foarte multe date despre utilizator (pe care le trimite la compania mamă precum și la terți) și nu oferă nici un fel de opțiuni de privacy reale/utile. Nu oferă blocarea screenshot-urilor, nici dezactivarea învățării automate pentru tastatură. Setările de privacy sunt foarte de suprafață și utile doar pentru a te feri de utilizatorul tipic. Nu consider că este recomandat pentru transmiterea de date medicale, contracte, acte sau orice alt fel de date sensibile.
 
+![Whatsapp privacy settings](/images/whatsapp privacy.jpg)
+
+Signal:
+
 Session:
 
 Session oferă anonimitate, privacy și criptare. Anonimitatea e oferită prin faptul că nu se cere nici număr de telefon, nici adresă de email pentru a-l folosi. Datorită modelului său descentralizat, este foarte dificil să se facă o legătură între un ID de Session și o adresă IP, care să ducă la un device specific și la identitatea utilizatorului. Se poate alfa din Google Play Store sau Apple App Store cine a descărcat aplicația, dar ID-ul în sine se poate schimba după fiecare conversație.
