@@ -101,7 +101,7 @@ Pentru a folosi [Protonmail](https://protonmail.com/) este necesar un număr de 
 
 [Signal](https://signal.org/en/) necesită număr de telefon, nu oferă posibilitatea de a-l ascunde de alții și, mai rău, te anunță când cineva din lista de contacte a aderat. Ce e rău în asta? De exemplu, următoarea situație: persoană cu partener abuziv aderă la Signal pentru a comunica cu familia si avocatul în vederea ieșirii din relație. Partenerul vede notificarea, se enervează (că percepe Signal ca fiind o aplicație folosită de cei care vor să se ascundă cu rea intenție), poate acționa violent față de celălalt și/sau îi poate confisca telefonul, tăind-ui astfel contactul cu cercul de susținere. Alt punct slab al Signal este faptul că pentru tastaturile (virtuale, e vorba de smartphones) folosite pentru caractere non-europene (și aici discuția a fost cu accentul pe chineză și hindi) se poate ignora marcajul de incognito și se pot astfel înregistra mesajele (practic, nu ține cont de "disable personalized learning" și deci stochează cuvintele/frazele folosite des). Este posibil să se întâmple și cu alte tastaturi. Practic, o parte din securitatea acestei aplicații depinde de securitatea tastaturii folosite. 
 
-Alte variante de aplicații de chat sunt [Threema](https://threema.ch/en), [Keybase](https://keybase.io/), [Wire](https://wire.com/en/).
+Alte variante de aplicații de chat sunt [Threema](https://threema.ch/en), [Keybase](https://keybase.io/), [Wire](https://wire.com/en/), [Element](https://element.io/).
 
 Numărul de telefon, adresa de email, precum si o gamă largă de alte date sunt legate de utilizator. Un update recent la Apple App Store a introdus posibilitatea de a vedea ce date sunt legate de tine, per aplicație, și ce date sunt colecționate.
 
