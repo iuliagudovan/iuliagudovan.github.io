@@ -150,3 +150,30 @@ Session oferă anonimitate, privacy și criptare. Anonimitatea e oferită prin f
 Această aplicație nu permite screenshot în nici un fel, nici în conversații, nici în meniul principal sau în setări. Oferă incognito keyboard (blocarea învățării personalizate pentru tastatură) și blocarea accesului la aplicație cu modelul de deblocare sau amprenta folosit/ă de Android)
 
 ![Session app](/images/sessionapp_privacy_anon.png)
+
+## Cum îmi dau seama dacă parola/datele mele circulă libere pe net?
+
+[Have I been pwned](https://haveibeenpwned.com/)
+[Intelligence X](https://intelx.io/)
+
+## "You don't know the power of The Dark Side!": Darknet - cum se intră, cum te protejezi, ce găsim acolo?
+
+Darknet e acea parte a internetului unde se găsesc tot felul de chestii... mai puțin legale. A accesa și citi nu e propriu-zis ilegal (cu câteva excepții), dar a lua parte activ la anumite comunități și a cumpăra e altceva.
+2 puncte de plecare în explorarea darknet sunt:
+[The Hidden Wiki](https://thehiddenwiki.org/)
+[dark.fail](https://dark.fail/)
+Adresele cu .onion sunt "hidden services" și e nevoie de [Tor](https://www.torproject.org/) pentru a le accesa.
+
+Ca sfaturi de navigare:
+- chiar și site-urile non-.onion vor fi accesate numai din Tor
+- hotspot din date mobile de pe un SIM burner ar fi ideal
+- evită crearea de conturi dacă nu sunt absolut musai necesare pentru a ajunge la informația dorită
+- mare atenție cu acumularea de punctaj/currency pe diverse forumuri pentru a obține acces la informații; de obicei acest punctaj poate fi obținut și prin metode pașnice, dar e mai lent
+- în cazul creării unui cont, se va folosi o adresă de email temporară sau oferită de un provider ce oferă (pseudo)anonimitate
+- nu se va folosi numele real sau porecle/alias-uri cunoscute
+- nu se vor folosi poze de profil cunoscute (care sunt folosite și pe alte conturi)
+- nu se vor reutiliza parole
+- în cazul interacțiunii ulterioare cu persoane întâlnite acolo, se vor folosi conturi (pseudo)anonime și aplicații de chat cât mai sigure
+- nu se va descărca (și rula/dezarhiva ulterior) nimic fără a folosi un mediu bine izolat (sandbox sau mașină virtuală - virtual machine, VM)
+
+Două forumuri posibil utile ar fi leakzone.net (data leaks & resources) și raidforums.com (database sharing and marketplace forum). Aici sunt lăsate intenționat fără link, pentru a nu face click pe ele din greșeală :)
