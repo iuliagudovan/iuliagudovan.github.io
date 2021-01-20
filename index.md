@@ -6,6 +6,8 @@ Pagina asta e destinată publicului larg, nu experților din zona IT/security, a
 1. [Securitate si privacy - de ce ar trebui sa te intereseze ambele](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#securitate-si-privacy---de-ce-ar-trebui-sa-te-intereseze-ambele)
 2. [Threat model - ce-i ăla și de ce ar trebui să ne gândim la el](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#threat-model---ce-i-%C4%83la-%C8%99i-de-ce-ar-trebui-s%C4%83-ne-g%C3%A2ndim-la-el)
 3. [Cum alegem o aplicație de chat](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#cum-alegem-o-aplica%C8%9Bie-de-chat)
+4. Cum îmi dau seama dacă parola/datele mele circulă libere pe net?
+5. "You don't know the power of The Dark Side!": Darknet - cum se intră, cum te protejezi, ce găsim acolo?
 
 ## Securitate si privacy - de ce ar trebui sa te intereseze ambele
 
