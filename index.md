@@ -133,7 +133,7 @@ Whatsapp:
 
 Whatsapp nu oferă anonimitate. Se poate obține o pseudoanonimitate folosind un număr de telefon burner, nume irelevant și poză de profil lipsă, dar alfarea IP-ului și în final a identității utilizatorului nu este o problemă. Oferă criptare, dar colecționează foarte multe date despre utilizator (pe care le trimite la compania mamă precum și la terți) și nu oferă nici un fel de opțiuni de privacy reale/utile. Nu oferă blocarea screenshot-urilor, nici dezactivarea învățării automate pentru tastatură. Setările de privacy sunt foarte de suprafață și utile doar pentru a te feri de utilizatorul tipic. Nu consider că este recomandat pentru transmiterea de date medicale, contracte, acte sau orice alt fel de date sensibile.
 
-![Whatsapp privacy settings](/images/whatsapp privacy.jpg)
+![Whatsapp privacy settings](/images/whatsappprivacy.jpg)
 
 Signal:
 
