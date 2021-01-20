@@ -7,7 +7,7 @@ Pagina asta e destinată publicului larg, nu experților din zona IT/security, a
 2. [Threat model - ce-i ăla și de ce ar trebui să ne gândim la el](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#threat-model---ce-i-%C4%83la-%C8%99i-de-ce-ar-trebui-s%C4%83-ne-g%C3%A2ndim-la-el)
 3. [Cum alegem o aplicație de chat](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#cum-alegem-o-aplica%C8%9Bie-de-chat)
 4. [Cum îmi dau seama dacă parola/datele mele circulă libere pe net?](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#cum-%C3%AEmi-dau-seama-dac%C4%83-paroladatele-mele-circul%C4%83-libere-pe-net)
-5. ["You don't know the power of The Dark Side!": Darknet, deep web - cum se intră, cum te protejezi, ce găsim acolo?](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#you-dont-know-the-power-of-the-dark-side-darknet---cum-se-intr%C4%83-cum-te-protejezi-ce-g%C4%83sim-acolo)
+5. ["You don't know the power of The Dark Side!": Darknet, deep web - cum se intră, cum te protejezi, ce găsim acolo?](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#you-dont-know-the-power-of-the-dark-side-darknet-deep-web---cum-se-intr%C4%83-cum-te-protejezi-ce-g%C4%83sim-acolo)
 
 ## Securitate si privacy - de ce ar trebui sa te intereseze ambele
 
@@ -164,8 +164,11 @@ Această aplicație nu permite screenshot în nici un fel, nici în conversații
 ## "You don't know the power of The Dark Side!": Darknet, deep web - cum se intră, cum te protejezi, ce găsim acolo?
 
 Darknet e acea parte a internetului unde se găsesc tot felul de chestii... mai puțin legale. A accesa și citi nu e propriu-zis ilegal (cu câteva excepții), dar a lua parte activ la anumite comunități și a cumpăra e altceva.
+
 2 puncte de plecare în explorarea darknet sunt:
+
 [The Hidden Wiki](https://thehiddenwiki.org/)
+
 [dark.fail](https://dark.fail/)
 
 Darknet-ul propriu-zis e format din site-uri .onion
