@@ -1,6 +1,7 @@
 Această pagină are ca scop aducerea în atenția publicului larg a unor noțiuni de securitate și privacy în mediul virtual.
 Nu o sa folosesc "intimitate" sau "confidențialitate" în loc de "privacy" pentru ca lumea o sa se gandeasca la alte chestii si nu e tot timpul cazul.
 Pagina asta e destinată publicului larg, nu experților din zona IT/security, așa că nu aruncați cu ouă și roșii stricate pentru că unele lucruri sunt simplificate. 
+Spre final e putin mai tehnic :)
 
 ## Cuprins
 1. [Securitate si privacy - de ce ar trebui sa te intereseze ambele](https://github.com/iuliagudovan/iuliagudovan.github.io/blob/gh-pages/index.md#securitate-si-privacy---de-ce-ar-trebui-sa-te-intereseze-ambele)
@@ -163,7 +164,7 @@ Această aplicație nu permite screenshot în nici un fel, nici în conversații
 
 ## "You don't know the power of The Dark Side!": Darknet, deep web - cum se intră, cum te protejezi, ce găsim acolo?
 
-Darknet e acea parte a internetului unde se găsesc tot felul de chestii... mai puțin legale. A accesa și citi nu e propriu-zis ilegal (cu câteva excepții), dar a lua parte activ la anumite comunități și a cumpăra e altceva.
+Darknet e acea parte a internetului unde se găsesc tot felul de chestii... mai puțin legale. A accesa și citi nu e propriu-zis ilegal (cu câteva excepții), dar a lua parte activ la anumite comunități și a cumpăra e altceva. Faptul că știi ceva nu înseamnă musai că și practici/folosești :)
 
 2 puncte de plecare în explorarea darknet sunt:
 
@@ -173,7 +174,7 @@ Darknet e acea parte a internetului unde se găsesc tot felul de chestii... mai 
 
 Darknet-ul propriu-zis e format din site-uri .onion
 
-Adresele cu .onion sunt "hidden services" și e nevoie de [Tor](https://www.torproject.org/) pentru a le accesa. Alte site-uri dubioase fac parte din deepweb și nu sunt indexate de motoarele de căutare.
+Adresele cu .onion sunt "hidden services" și e nevoie de [Tor](https://www.torproject.org/) pentru a le accesa. Alte site-uri dubioase fac parte din deepweb și nu sunt indexate de motoarele de căutare. Mai există și unele care sunt indexate, dar tot din categoria asta: paste sites, unele forumuri/pagini de data leaks. O parte din ele sunt indexate și de Google/Bing/Yandex, altele pot fi găsite cu motoare de căutare pentru deep/darknet.
 
 Ca sfaturi de navigare:
 - chiar și site-urile non-.onion vor fi accesate numai din Tor
@@ -186,6 +187,12 @@ Ca sfaturi de navigare:
 - nu se vor reutiliza parole
 - în cazul interacțiunii ulterioare cu persoane întâlnite acolo, se vor folosi conturi (pseudo)anonime și aplicații de chat cât mai sigure
 - nu se va descărca (și rula/dezarhiva ulterior) nimic fără a folosi un mediu bine izolat (sandbox sau mașină virtuală - virtual machine, VM)
+- dacă sună prea bine pentru a fi adevărat, sigur e țeapă sau honeypot. multe lucruri pot fi honeypot aici, deci atenție
 
 Un site util celor interesați de malware (pentru reverse engineering sau alte studii) e [vx-underground](https://vx-underground.org/)
-Două forumuri posibil utile (deepweb) ar fi leakzone.net (data leaks & resources) și raidforums.com (database sharing and marketplace forum). Aici sunt lăsate intenționat fără link, pentru a nu face click pe ele din greșeală :)
+
+Două forumuri posibil utile ar fi leakzone.net (data leaks & resources) și raidforums.com (database sharing and marketplace forum). Aici sunt lăsate intenționat fără link, pentru a nu face click pe ele din greșeală :)
+
+Tot data leaks:
+
+https:// ddosecrets. com/wiki/Distributed_Denial_of_Secrets (fără spații)
