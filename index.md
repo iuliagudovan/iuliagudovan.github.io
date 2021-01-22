@@ -148,6 +148,7 @@ Nu oferă anonimitate. Este nevoie de număr de telefon pentru utilizare. Totuș
 
 Din punct de vedere al tastaturii:
 [Signal Incognito Keyboard](https://support.signal.org/hc/en-us/articles/360055276112-Incognito-Keyboard)
+![Signal Incognito Keyboard warning](/images/signalincognitokeyboard.png)
 
 Session:
 
