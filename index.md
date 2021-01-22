@@ -172,11 +172,13 @@ Această aplicație nu permite screenshot în nici un fel, nici în conversații
 
 Darknet e acea parte a internetului unde se găsesc tot felul de chestii... mai puțin legale. A accesa și citi nu e propriu-zis ilegal (cu câteva excepții), dar a lua parte activ la anumite comunități și a cumpăra e altceva. Faptul că știi ceva nu înseamnă musai că și practici/folosești :)
 
-2 puncte de plecare în explorarea darknet sunt:
+3 puncte de plecare în explorarea darknet sunt:
 
 [The Hidden Wiki](https://thehiddenwiki.org/)
 
 [dark.fail](https://dark.fail/)
+
+[Darknet Diaries](https://darknetdiaries.com/)
 
 Darknet-ul propriu-zis e format din site-uri .onion
 
