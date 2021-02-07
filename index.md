@@ -146,9 +146,13 @@ Nu oferă anonimitate. Este nevoie de număr de telefon pentru utilizare. Totuș
 
 ![Signal join notification](/images/signaljoin.jpg)
 
+Prezinta diverse vulnerabilitati:
 Din punct de vedere al tastaturii:
 [Signal Incognito Keyboard](https://support.signal.org/hc/en-us/articles/360055276112-Incognito-Keyboard)
 ![Signal Incognito Keyboard warning](/images/signalincognitokeyboard.png)
+
+"multiple researchers have now discovered flaws in the workaround that can let a censor or government authority probe into Signal TLS proxies, rendering these protections moot and potentially bringing repercussions for Signal users located in repressive regimes."
+[Signal ignores proxy censorship vulnerability](https://www.bleepingcomputer.com/news/security/signal-ignores-proxy-censorship-vulnerability-bans-researchers/)
 
 Session:
 
@@ -157,6 +161,10 @@ Session oferă anonimitate, privacy și criptare. Anonimitatea e oferită prin f
 Această aplicație nu permite screenshot în nici un fel, nici în conversații, nici în meniul principal sau în setări. Oferă incognito keyboard (blocarea învățării personalizate pentru tastatură) și blocarea accesului la aplicație cu modelul de deblocare sau amprenta folosit/ă de Android)
 
 ![Session app](/images/sessionapp_privacy_anon.png)
+
+Telegram:
+
+Necesita numar de telefon. Crearea si stergerea conturilor e facila si rapida, nu necesita username sau nume. Numele poate fi setat si un emoji. Ofera posibilitatea de a trimite mesaje ce dispar dupa un timp setat.
 
 ### “Do. Or do not. There is no try.” 
 
@@ -167,6 +175,14 @@ Această aplicație nu permite screenshot în nici un fel, nici în conversații
 [Have I been pwned](https://haveibeenpwned.com/)
 
 [Intelligence X](https://intelx.io/)
+
+### The internet is forever. The internet is for porn.
+
+Realitatea este ca nimic nu se sterge, niciodata. Dispare dintr-un loc, apare in altul. Asta fara a lua in discutie partea tehnica a "stergerii". Deci, o data ce o informatie a ajuns pe net, se presupune ca aceasta ramane acolo. Sunt numeroase platforme care permit postarea de informatii (inclusiv foto-video) sub anonimat sau pseudo-anonimat, iar oricine care acceseaza aceste platforme poate salva si distribui informatia la randul sau.
+
+Pentru arhivare se poate folosi [Wayback Machine](https://web.archive.org/)
+
+Din acest motiv, trebuie sa te gandesti destul de bine inainte de a posta sau produce materiale ce pot fi regretate mai tarziu. 
 
 ## "You don't know the power of The Dark Side!": Darknet, deep web - cum se intră, cum te protejezi, ce găsim acolo?
 
